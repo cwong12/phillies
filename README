@@ -1,10 +1,10 @@
 README: Phillies R&D Questionnaire
 Christopher Wong
 
-My answer to part a) is included in a pdf along with an example of a visualization
-produced by my part b) program
+My answer to part a) is included in a pdf, "Phillies_Questions.pdf", along with
+an example of a visualization produced by my part b) program
 
-For part b) I wrote a Python program using Python 3.7 and can be run from the command
+For part b) I wrote a Python program "phillies_quest.py" using Python 3.7 and can be run from the command
 line. The program scrapes the relevant salary data using BeautifulSoup and puts
 the data in a pandas dataframe. After calculating the qualifying offer value from the
 dataframe, it prints out the results as well as using matplotlib to graph a histogram
